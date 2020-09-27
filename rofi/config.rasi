@@ -6,7 +6,7 @@ configuration {
 	modi: 			"drun,run";
 	width: 			550;
 	lines: 			13;
-	font: 			"JetBrains Mono 10";
+	font: 			"Iosevka Semibold 12";
 	show-match: 		false;
 	separator-style: 	"solid";
 	hide-scrollbar: 	true;
